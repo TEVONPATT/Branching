@@ -13,3 +13,5 @@ Summary of useful `git` commands.
 * `git branch someBranch` - Create branch `someBranch`
 * `git checkout someBranch` - Move to branch `someBranch`
 * `git config -l` - List git configuration
+* `git pull origin main` - Pull remote `main` into current branches
+* `git push origin newBranch` - Push current branch to remote
